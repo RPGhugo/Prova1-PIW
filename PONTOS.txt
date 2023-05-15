@@ -1,0 +1,4 @@
+1 - 2,5
+2 - 2,5
+3 - 2,5
+4 - 2,0 (nao consegui renderizar a imagem e tenho certeza que é pq errei alguma besteira)
